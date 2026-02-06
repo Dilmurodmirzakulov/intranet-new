@@ -27,9 +27,8 @@ export default function UserDropdown() {
           Musharof
         </span>
         <svg
-          className={`stroke-white/80 transition-transform duration-200 ${
-            isOpen ? "rotate-180" : ""
-          }`}
+          className={`stroke-white/80 transition-transform duration-200 ${isOpen ? "rotate-180" : ""
+            }`}
           width="18"
           height="20"
           viewBox="0 0 18 20"
